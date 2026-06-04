@@ -20,8 +20,9 @@
 ![Founded](https://img.shields.io/badge/Founded-2020-blueviolet?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=flat-square)
 ![Projects](https://img.shields.io/badge/Projects%20Delivered-1000%2B-brightgreen?style=flat-square)
+![Students](https://img.shields.io/badge/Students%20Trained-18000%2B-orange?style=flat-square)
 ![Instagram](https://img.shields.io/badge/Instagram-70K%2B%20Followers-E4405F?style=flat-square)
-![MCA Registered](https://img.shields.io/badge/MCA-Registered%20Organization-orange?style=flat-square)
+![MCA Registered](https://img.shields.io/badge/MCA-Registered%20Organization-grey?style=flat-square)
 
 </div>
 
@@ -31,37 +32,63 @@
 
 **Electrocus Solution** is a Lucknow-based, MCA-registered technology organization founded in 2020. We operate across two core pillars:
 
-- 🔧 **Engineering & Development** — Custom embedded systems, IoT products, software, and automation solutions for businesses
-- 🎓 **Training & Internships** — Practical, industry-focused training programs for engineering students and aspiring professionals
+- 🏭 **Engineering, Development & Industrial Automation** — Custom embedded systems, IoT products, PLC panels, data logging systems, SCADA, and end-to-end automation solutions for industry
+- 🎓 **Training & Internships** — Practical, industry-focused programs for engineering students and aspiring professionals
 
-We bridge the gap between hardware and software, and between academia and industry — crafting solutions and building the next generation of technologists.
+We bridge the gap between hardware and software, and between academia and industry — building intelligent systems and growing the next generation of technologists.
 
 ---
 
 ## ⚡ What We Do
 
-### 🔧 Development & Engineering Services
+### 🏭 Industrial Automation & Control Systems
+
+Our flagship engineering vertical — delivering production-ready automation infrastructure for manufacturing, utilities, and process industries.
+
+| Capability | Details |
+|---|---|
+| 🔲 **PLC Control Panels** | Custom panel design, fabrication, wiring, and commissioning using Siemens, Allen-Bradley, Mitsubishi, and Delta PLCs |
+| 📊 **Data Logging Systems** | Industrial data acquisition with local storage, cloud upload, and real-time dashboards — built on custom embedded hardware or Raspberry Pi / Industrial PCs |
+| 🖥️ **SCADA & HMI Development** | Supervisory control and data acquisition systems; HMI screen design, alarming, trending, and historical data |
+| ⚙️ **VFD & Motor Control** | Variable frequency drive commissioning, motor starter panels, soft starters, and drive integration |
+| 🌬️ **Pneumatic & Hydraulic Integration** | Electro-pneumatic and hydraulic control circuit design and PLC interfacing |
+| 🏗️ **Control Panel Design & Installation** | MCC panels, power distribution boards, field junction boxes — designed to IS/IEC standards |
+| 🏠 **Home & Building Automation** | Smart lighting, HVAC control, security integration, and energy management via IoT gateways |
+| 🔩 **Roof Sheet Rolling Machine Automation** | Servo-driven PLC + HMI controlled sheet rolling systems — fully integrated and commissioned |
+
+**Industrial protocols & tools we work with:**
+
+![Modbus](https://img.shields.io/badge/Modbus-RTU%20%7C%20TCP-grey?style=flat-square)
+![Profibus](https://img.shields.io/badge/Profibus-DP-blue?style=flat-square)
+![Profinet](https://img.shields.io/badge/Profinet-Industrial%20Ethernet-blue?style=flat-square)
+![CANbus](https://img.shields.io/badge/CANbus-Industrial-orange?style=flat-square)
+![RS485](https://img.shields.io/badge/RS485-Serial%20Comm-lightgrey?style=flat-square)
+![4-20mA](https://img.shields.io/badge/4--20mA-Analog%20I%2FO-green?style=flat-square)
+![Siemens](https://img.shields.io/badge/Siemens-S7%20%7C%20LOGO!-009999?style=flat-square)
+![Delta](https://img.shields.io/badge/Delta-DVP%20%7C%20AS%20Series-red?style=flat-square)
+
+---
+
+### 🔧 Embedded Systems & IoT Development
 
 | Service | Details |
 |---|---|
-| 🔩 **Embedded Systems** | Microcontroller-based product design using ESP32, STM32, Arduino, AVR |
-| 📡 **IoT Solutions** | End-to-end IoT systems with sensor integration, cloud platforms, and dashboards |
-| 🏭 **PLC & SCADA** | Industrial automation, process control, and monitoring systems |
-| 🌐 **Web Development** | Responsive, scalable websites and web applications |
-| 📱 **App Development** | Mobile and web apps with strong UI/UX and secure APIs |
-| 🤖 **AI / ML Integration** | Edge AI, machine learning pipelines, and data-driven automation |
-| ⚡ **Home & Industrial Automation** | Custom smart home and industrial control systems |
+| 🔩 **Embedded Product Design** | Custom microcontroller-based hardware using ESP32, STM32, Arduino, AVR |
+| 📡 **IoT Systems** | End-to-end IoT — sensors, edge firmware, communication, cloud dashboards |
+| 📋 **PCB Design & Development** | Schematic capture, PCB layout, BOM, and DFM-ready Gerber files |
+| 🛡️ **Safety Devices** | IoT-enabled industrial safety monitoring devices with real-time alerts |
+| ☁️ **Cloud & Dashboard Integration** | AWS IoT Core, Grafana, TTN (LoRaWAN), custom MQTT brokers |
 
-### 🎓 Training Programs
+---
 
-| Category | Courses |
+### 🌐 Software & Application Development
+
+| Service | Details |
 |---|---|
-| 🔌 **Embedded Systems & IoT** | ESP32, Arduino, STM32, RTOS, sensor integration — 12 Courses |
-| 💻 **Programming** | Python, C, C++, Java, Django — 15 Courses |
-| 🎨 **Design & Simulation** | PCB Design, KiCad, EasyEDA, Proteus — 8 Courses |
-| 🛠️ **Software & Tools** | Web Dev, React, Node.js, Git, Linux — 10 Courses |
-| 🏭 **Industrial** | PLC, SCADA, industrial automation |
-| 📊 **Data Science & ML** | Python ML, Data Science, AI fundamentals |
+| 🌐 **Web Development** | Full-stack responsive web apps — Node.js, Django, PHP, React |
+| 📱 **Mobile & App Development** | Cross-platform mobile apps with secure APIs and strong UI/UX |
+| 🤖 **AI / ML Integration** | Edge AI, predictive maintenance, data analytics, ML pipelines |
+| 🏠 **Home Automation Software** | Voice control, app-based control, energy management dashboards |
 
 ---
 
@@ -69,13 +96,22 @@ We bridge the gap between hardware and software, and between academia and indust
 
 <div align="center">
 
+**Industrial & Automation**
+
+![Siemens PLC](https://img.shields.io/badge/Siemens-S7--1200%20%7C%20S7--300-009999?style=flat-square)
+![Delta PLC](https://img.shields.io/badge/Delta-DVP%20Series-red?style=flat-square)
+![TIA Portal](https://img.shields.io/badge/TIA%20Portal-Siemens-009999?style=flat-square)
+![WinCC](https://img.shields.io/badge/WinCC-SCADA-009999?style=flat-square)
+![Wonderware](https://img.shields.io/badge/Wonderware-SCADA-blue?style=flat-square)
+![VFD](https://img.shields.io/badge/VFD-Drive%20Integration-orange?style=flat-square)
+
 **Embedded & Hardware**
 
 ![ESP32](https://img.shields.io/badge/ESP32-ESP--IDF%20%7C%20Arduino-red?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-CubeIDE%20%7C%20PlatformIO-blue?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-CubeIDE%20%7C%20HAL-blue?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-Framework-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-SBC-C51A4A?style=flat-square&logo=raspberrypi)
-![AVR](https://img.shields.io/badge/AVR-ATmega-FF6600?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Industrial%20Gateway-C51A4A?style=flat-square&logo=raspberrypi)
+![AVR](https://img.shields.io/badge/AVR-ATmega%20Series-FF6600?style=flat-square)
 
 **Languages & Frameworks**
 
@@ -86,83 +122,108 @@ We bridge the gap between hardware and software, and between academia and indust
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-IEC%2061131--3-grey?style=flat-square)
 
 **IoT & Connectivity**
 
 ![MQTT](https://img.shields.io/badge/MQTT-IoT%20Protocol-660066?style=flat-square)
 ![LoRa](https://img.shields.io/badge/LoRa-LoRaWAN-purple?style=flat-square)
-![BLE](https://img.shields.io/badge/BLE-Bluetooth-0082FC?style=flat-square)
+![BLE](https://img.shields.io/badge/BLE-5.0-0082FC?style=flat-square)
 ![AWS IoT](https://img.shields.io/badge/AWS-IoT%20Core-FF9900?style=flat-square&logo=amazonaws)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana)
 ![TTN](https://img.shields.io/badge/TTN-LoRaWAN-7B5EA7?style=flat-square)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?style=flat-square&logo=grafana)
 
-**Industrial & Design**
+**PCB & Design Tools**
 
-![PLC](https://img.shields.io/badge/PLC-Industrial%20Automation-grey?style=flat-square)
-![SCADA](https://img.shields.io/badge/SCADA-HMI%20Systems-grey?style=flat-square)
 ![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?style=flat-square)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-PCB%20Design-1DA462?style=flat-square)
 ![Altium](https://img.shields.io/badge/Altium-Designer-A5915F?style=flat-square)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-FF6D00?style=flat-square)
+![Proteus](https://img.shields.io/badge/Proteus-Simulation-blue?style=flat-square)
 
 </div>
 
 ---
 
+## 🏗️ Industrial Project Highlights
+
+### 🔩 Roof Sheet Rolling Machine Automation
+> *Siemens PLC + HMI | Servo Drive Control | Full Commissioning*
+
+Fully automated roof sheet rolling line with PLC-based servo motor control, HMI operator panel for recipe management, and real-time production counters.
+
+---
+
+### 📊 Industrial Data Logger
+> *Raspberry Pi / STM32 + RS485 Modbus | Cloud Upload | Grafana Dashboard*
+
+Multi-channel industrial data acquisition systems reading Modbus RTU sensors (temperature, pressure, flow, energy) with local SD card logging, real-time cloud push, and Grafana-based monitoring dashboards.
+
+---
+
+### 🏠 Smart Home & Building Automation
+> *ESP32 + IoT Cloud | Voice & App Control | Energy Monitoring*
+
+End-to-end smart home installations covering lighting control, fan regulation, security cameras, door locks, and real-time energy consumption monitoring via mobile app.
+
+---
+
+### 🛡️ IoT Safety Device
+> *Custom PCB + Embedded Firmware | Real-Time Alerts | Cloud Connected*
+
+Industrial safety monitoring device with environmental and machine-state sensing, threshold-based alerting, and cloud dashboards for remote fleet monitoring.
+
+---
+
+## 🎓 Training Programs
+
+> **Practical. Project-Based. Industry-Ready.**
+
+| Category | Courses |
+|---|---|
+| 🔌 **Embedded Systems & IoT** | ESP32, Arduino, STM32, FreeRTOS, sensor integration — 12 Courses |
+| 🏭 **Industrial Automation** | PLC, SCADA, HMI, VFD, Ladder Logic, Modbus |
+| 💻 **Programming** | Python, C, C++, Java, Django — 15 Courses |
+| 🎨 **Design & Simulation** | PCB Design, KiCad, EasyEDA, Proteus — 8 Courses |
+| 🛠️ **Software & Tools** | Web Dev, React, Node.js, Git, Linux — 10 Courses |
+| 📊 **Data Science & ML** | Python ML, Data Science, AI on edge devices |
+
+- ✅ Hands-on, project-driven curriculum with real hardware
+- ✅ Internship & placement assistance
+- ✅ Certificate programs — industry-recognized
+- ✅ Free workshops at engineering colleges across Uttar Pradesh
+- ✅ Online & offline modes — flexible scheduling
+- ✅ Starting from ₹12,499
+
+**→ [Explore all courses](https://electrocus.com/training/)**
+
+---
+
 ## 📂 Our Repositories
 
-This GitHub organization hosts open-source code, firmware references, project templates, and community resources developed by the Electrocus engineering team — used in our training programs and client projects.
+This organization hosts open-source code, firmware references, project templates, and training resources built by the Electrocus engineering team.
 
 ```
 📁 Firmware & Embedded         →  ESP32, STM32, Arduino sketches and ESP-IDF projects
+📁 Industrial Automation       →  PLC ladder logic samples, Modbus drivers, SCADA configs
+📁 Data Logging                →  Modbus data acquisition, cloud upload pipelines, dashboards
 📁 IoT Projects                →  End-to-end IoT pipelines with cloud integration
 📁 Student Projects            →  Reference implementations from training programs
-📁 Automation & PLC            →  Industrial and home automation scripts
 📁 AI / ML                     →  Edge AI and machine learning experiments
 📁 Web & App                   →  Backend APIs, dashboards, and frontend templates
 ```
 
 ---
 
-## 🎓 Training Highlights
-
-> **Practical. Project-Based. Industry-Ready.**
-
-Our training programs are designed and delivered by experienced engineers and technocrats with real industry backgrounds.
-
-- ✅ **Hands-on, project-driven curriculum** — no passive lectures
-- ✅ **Internship & placement assistance** — industry connections
-- ✅ **Certificate programs** — recognized completion credentials
-- ✅ **Workshops at colleges** — free workshops organized at engineering colleges across UP
-- ✅ **Online & offline modes** — flexible learning formats
-- ✅ **Courses from ₹12,499** — accessible pricing for students
-
-**Explore courses → [electrocus.com/training](https://electrocus.com/training/)**
-
----
-
-## 🌍 Our Reach
-
-```
-📍  Based in        Lucknow, Uttar Pradesh, India
-🏫  College Reach   Engineering colleges across Uttar Pradesh
-📱  Instagram       70,000+ followers (@electrocus_solution)
-📺  YouTube         Active channel with tutorials and project demos
-💬  Telegram        @electrocus — 132+ members
-```
-
----
-
 ## 🤝 Work With Us
-
-Whether you're a student, an engineering professional, or a business looking to build something smart — Electrocus is your partner.
 
 | I'm a... | What we offer |
 |---|---|
+| 🏭 **Industry / Manufacturer** | PLC panels, SCADA, data logging, automation retrofits, VFD integration |
+| 🏢 **Business** | Custom software, embedded systems, IoT products, web/app development |
 | 🎓 **Student** | Training, internship, live project experience, placement support |
-| 🏢 **Business** | Custom software, embedded systems, IoT, automation solutions |
 | 🏫 **College / Institution** | Free workshops, technical events, MoU collaborations |
-| 👨‍💻 **Developer** | Open-source projects, community contributions |
+| 👨‍💻 **Developer** | Open-source projects and community contributions |
 
 ---
 
